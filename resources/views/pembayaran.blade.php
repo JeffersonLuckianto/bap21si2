@@ -19,7 +19,7 @@ use App\Models\pembayaran;
 @section('title','Pembayaran')
 @section('content')
 <div class= "container">
-    <p style= "font-size: 48px ; font-weight: bold ; text-align: center ; margin: 40px 0 0 0 ; text-decoration: underline">DATA MAHASISWA</p>
+    <p style= "font-size: 48px ; font-weight: bold ; text-align: center ; margin: 40px 0 0 0 ; text-decoration: underline">DATA PEMBAYARAN</p>
     {{-- <table style= "margin-right:auto ; margin-left:auto"> --}}
     <table class="table table-bordered table-hover">
         <tr>
