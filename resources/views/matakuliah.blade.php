@@ -19,7 +19,7 @@ use App\Models\matakuliah;
 @section('title','Mata kuliah')
 @section('content')
 <div class= "container">
-    <p style= "font-size: 48px ; font-weight: bold ; text-align: center ; margin: 40px 0 0 0 ; text-decoration: underline">MATA KULIAH</p>
+    <p style= "font-size: 48px ; font-weight: bold ; text-align: center ; margin: 40px 0 0 0 ; text-decoration: underline">JADWAL</p>
     <table style= "margin-right:auto ; margin-left:auto">
         <tr>
             <th>ID</th>
